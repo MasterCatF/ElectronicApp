@@ -1,0 +1,6 @@
+INSTALAR
+pip install pytest
+
+
+EN EL TERMINAL PARA EJECUTAR EL CODIGO DE PRUEBAS AUTOMATIZADAS
+python -m pytest test_electronic_app.py
