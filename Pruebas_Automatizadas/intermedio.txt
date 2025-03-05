@@ -1,0 +1,74 @@
+¿Cuál es la ecuación de la Ley de Ohm?
+A) V = IR (*)
+B) P = VI
+C) I = VR
+
+¿Qué componente regula el voltaje en un circuito?
+A) Transistor
+B) Regulador de voltaje (*)
+C) Capacitor
+
+¿Cuántos terminales tiene un transistor BJT?
+A) 2
+B) 3 (*)
+C) 4
+
+¿Qué significa PWM?
+A) Pulso de Ancho Modulado (*)
+B) Potencia de Watt Máxima
+C) Programa de Wavelength Modulada
+
+¿Qué mide un osciloscopio?
+A) Solo corriente
+B) Solo resistencia
+C) Señales eléctricas en el tiempo (*)
+
+¿Qué parámetro determina la eficiencia de un transformador?
+A) Relación de espiras (*)
+B) Capacitancia
+C) Resistencia
+
+¿Qué componente cambia su resistencia con la luz?
+A) Fotodiodo
+B) LDR (*)
+C) Varistor
+
+¿Cuál es la diferencia entre un MOSFET y un BJT?
+A) MOSFET se controla con voltaje, BJT con corriente (*)
+B) Ambos se controlan igual
+C) MOSFET usa corriente directa
+
+¿Qué tipo de filtro se usa para eliminar ruido en una señal eléctrica?
+A) Filtro de paso bajo (*)
+B) Filtro de paso alto
+C) Transformador
+
+¿Cuál es la función principal de un relé?
+A) Regular voltaje
+B) Controlar un circuito con otro circuito (*)
+C) Almacenar energía
+
+¿Qué tipo de corriente se encuentra en la red eléctrica?
+A) Continua
+B) Alterna (*)
+C) Pulsante
+
+¿Qué pasa si conectamos dos fuentes en paralelo con diferente voltaje?
+A) Funcionará correctamente
+B) Se puede dañar una fuente (*)
+C) No pasará nada
+
+¿Qué material se usa para fabricar semiconductores?
+A) Oro
+B) Silicio (*)
+C) Plomo
+
+¿Qué pasa cuando un condensador en DC se carga completamente?
+A) Se comporta como un corto
+B) Se comporta como un circuito abierto (*)
+C) Suministra energía infinita
+
+¿Qué representa la impedancia en un circuito de corriente alterna?
+A) Solo resistencia
+B) Resistencia y reactancia combinadas (*)
+C) Solo inductancia

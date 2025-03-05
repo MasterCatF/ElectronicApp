@@ -1,0 +1,74 @@
+¿Qué ocurre en un circuito RLC en resonancia?
+A) La impedancia es mínima (*)
+B) La corriente es cero
+C) La reactancia capacitiva es infinita
+
+¿Qué ventaja tiene un amplificador operacional diferencial?
+A) Amplifica señales sin eliminar ruido
+B) Rechaza ruido en modo común (*)
+C) No tiene ninguna ventaja
+
+¿Qué define la ganancia de un transistor en configuración emisor común?
+A) β (hFE) (*)
+B) α
+C) ω
+
+¿Qué propiedad es clave en un oscilador Colpitts?
+A) Inductor variable
+B) Capacitores en serie (*)
+C) Uso de triac
+
+¿Qué ocurre si la reactancia capacitiva es menor que la inductiva en un circuito AC?
+A) Predomina la inductancia (*)
+B) Se produce una caída de tensión
+C) No hay efecto alguno
+
+¿Cuál es el propósito de un circuito de realimentación en un amplificador?
+A) Disminuir la ganancia
+B) Controlar estabilidad y respuesta de frecuencia (*)
+C) Aumentar la distorsión
+
+¿Qué mide el factor Q en circuitos resonantes?
+A) Calidad del circuito (*)
+B) Capacidad
+C) Tensión máxima
+
+¿Qué tipo de rectificador tiene la mayor eficiencia?
+A) Media onda
+B) Puente de onda completa (*)
+C) Media onda con capacitor
+
+¿Qué es la histéresis en un comparador de voltaje?
+A) Retardo en la conmutación (*)
+B) Cambio de fase
+C) Aumento de ganancia
+
+¿Cuál es la función de un filtro notch?
+A) Eliminar una frecuencia específica (*)
+B) Ampliar el espectro
+C) Generar ruido
+
+¿Qué ocurre cuando un transistor en saturación?
+A) La caída de voltaje colector-emisor es mínima (*)
+B) Funciona en modo lineal
+C) Se apaga
+
+¿Qué significa THD en amplificadores?
+A) Distorsión Armónica Total (*)
+B) Transformador de Hertz Dinámico
+C) Tiempo de Hendimiento Dinámico
+
+¿Qué característica tiene un PLL (Phase-Locked Loop)?
+A) Sincroniza señales de fase y frecuencia (*)
+B) Aumenta el voltaje de entrada
+C) Disminuye el ancho de banda
+
+¿Qué ventaja tienen los MOSFET de canal N sobre los de canal P?
+A) Menor resistencia en conducción (*)
+B) Mayor caída de tensión
+C) Mayor disipación de calor
+
+¿Qué ocurre cuando un transformador tiene un núcleo de hierro laminado?
+A) Reduce pérdidas por corrientes parásitas (*)
+B) Aumenta la resistencia del núcleo
+C) Disminuye la inductancia

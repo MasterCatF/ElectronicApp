@@ -1,0 +1,74 @@
+¿Cuál es la unidad de resistencia eléctrica?
+A) Voltios
+B) Ohmios (*)
+C) Amperios
+
+¿Qué componente se usa para almacenar carga eléctrica?
+A) Diodo
+B) Capacitor (*)
+C) Transistor
+
+¿Cuál es la ley fundamental de los circuitos eléctricos?
+A) Ley de Joule
+B) Ley de Kirchhoff
+C) Ley de Ohm (*)
+
+¿Qué tipo de corriente suministra una batería?
+A) Corriente alterna
+B) Corriente continua (*)
+C) Ambas
+
+¿Qué significa LED?
+A) Light Emitting Diode (*)
+B) Low Energy Device
+C) Linear Energy Distributor
+
+¿Qué componente se usa para amplificar señales?
+A) Resistencia
+B) Transistor (*)
+C) Diodo
+
+¿Cuál es el valor típico de la tensión en un enchufe doméstico?
+A) 5V
+B) 120V o 230V (*)
+C) 12V
+
+¿Qué instrumento mide la resistencia?
+A) Amperímetro
+B) Voltímetro
+C) Ohmímetro (*)
+
+¿Qué pasa si conectamos un LED sin resistencia limitadora?
+A) Funciona normalmente
+B) Puede quemarse (*)
+C) No enciende
+
+¿Cuál es el símbolo de la resistencia?
+A) R (*)
+B) V
+C) I
+
+¿Qué significa AC en electricidad?
+A) Corriente Alterna (*)
+B) Corriente Continua
+C) Corriente Amperada
+
+¿El agua pura es un buen conductor eléctrico?
+A) Sí
+B) No (*) 
+C) Solo con voltaje alto
+
+¿Qué propiedad se mide en Faradios?
+A) Resistencia
+B) Capacitancia (*)
+C) Inductancia
+
+¿De qué material son la mayoría de los conductores eléctricos?
+A) Cobre (*)
+B) Plástico
+C) Vidrio
+
+¿Qué dispositivo protege un circuito de sobrecorrientes?
+A) Transformador
+B) Fusible (*)
+C) Capacitor
